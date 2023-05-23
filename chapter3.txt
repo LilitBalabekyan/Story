@@ -1,0 +1,1 @@
+Well this is chapter 3 text file! 	Trying to understand git.
